@@ -1,0 +1,3 @@
+[submodule "batman"]
+	path = batman
+	url = git@github.com:batmanjs/batman.git
